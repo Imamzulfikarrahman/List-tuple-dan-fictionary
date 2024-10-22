@@ -1,0 +1,5 @@
+siswa = ['Budi', 'Siti', 'Andi', 'Dewi']
+siswa.append('Rina')
+siswa.remove('Andi')
+print(siswa[0])
+print(siswa)
